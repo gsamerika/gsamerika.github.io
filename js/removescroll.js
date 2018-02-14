@@ -11,7 +11,7 @@ function sleep(ms) {
 }
 
 $(document).ready(function(){
-	setInterval(1000,sizeWindows());
+	setInterval(sizeWindows,1000);
 });
 
 function sizeWindows() {
