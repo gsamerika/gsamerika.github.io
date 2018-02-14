@@ -29,6 +29,10 @@ h3 {
 	font-family: "Trebuchet MS";
 }
 
+p {
+	padding: 10px;
+}
+
 #nav, #content {
 	background-color: #1eff43;
 	border: 2px solid #30dd00;
