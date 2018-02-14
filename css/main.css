@@ -25,15 +25,12 @@ h3 {
 	
 }
 
-.green {
-	background-color: #1eff43;
-}
-
 * {
 	font-family: "Trebuchet MS";
 }
 
-#nav {
+#nav #content {
 	background-color: #1eff43;
+	border: 2px solid #30dd00;
 }
 
