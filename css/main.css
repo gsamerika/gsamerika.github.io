@@ -22,10 +22,6 @@ body {
 	font-family: "Trebuchet MS";
 }
 
-.window {
-	height: 97vh;
-}
-
 @media screen and (min-width: 300px) {
 	.navitem {
 		font-size: 30px;
