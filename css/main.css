@@ -22,8 +22,7 @@ body {
 	font-family: "Trebuchet MS";
 }
 
-@media screen and (min-width: 300px) {
-	.navitem {
-		font-size: 30px;
-	}
+#nav-item-container {
+	background-color: #1eff43;
 }
+
